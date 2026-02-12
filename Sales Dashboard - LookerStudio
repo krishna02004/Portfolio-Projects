@@ -1,0 +1,19 @@
+ 🔗 Link - https://lookerstudio.google.com/reporting/0c283972-96f0-47c5-93ac-754dd01fb1fa
+
+📖 Overview
+This project is a hands-on implementation of a comprehensive Sales Intelligence Dashboard using Google Looker Studio. 
+
+Thisproject is buuilt specifically to bridge the gap between raw data collection and strategic decision-making. The dashboard simulates a real-world business scenario, tracking key performance indicators (KPIs) like revenue, volume, and regional growth.
+
+ ⚡ Key Features
+ Dynamic Scorecards: Instant visibility on Total Sales, Quantity Sold, and Avg. Unit Costs.
+ Time-Series Analysis: tracked sales trends over distinct fiscal periods.
+ Geographic & Category Drilling: Users can filter data by Region, Customer Type (New vs. Returning), and Product Category.
+ Interactive Filters: A fully responsive control panel allowing for "slice-and-dice" analysis of the dataset.
+
+ 🛠️ Technical Workflow
+1.  Data Ingestion: Connected a Kaggle Sales Dataset via Google Sheets.
+2.  Data Transformation: Cleaned data types and established date-range dimensions.
+3.  Visualization: Built a "Free Form" layout in Looker Studio, prioritizing UI/UX principles (alignment, whitespace, and color hierarchy) to make the data digestible.
+---
+Built with 💻 and 📊 by Krishna
